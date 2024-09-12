@@ -188,8 +188,78 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "aaltat",
+      "name": "Tatu Aalto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2665023?v=4",
+      "profile": "https://github.com/aaltat",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "tenshiAMD",
+      "name": "Angel Aviel Domaoan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13580338?v=4",
+      "profile": "https://tenshiamd.com",
+      "contributions": [
+        "code",
+        "maintenance",
+        "bug",
+        "review",
+        "test"
+      ]
+    },
+    {
+      "login": "201B153",
+      "name": "mayank singh tomar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89572392?v=4",
+      "profile": "http://mstomar.me",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "CodingAleCR",
+      "name": "Alejandro Ulate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12262852?v=4",
+      "profile": "http://www.codingale.dev",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "KnorpelSenf",
+      "name": "KnorpelSenf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12952387?v=4",
+      "profile": "https://github.com/KnorpelSenf",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "chartgerink",
+      "name": "Chris Hartgerink",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2946344?v=4",
+      "profile": "https://chjh.nl",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tobiasbueschel",
+      "name": "Tobias Büschel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13087421?v=4",
+      "profile": "http://linkedin.com/in/tbueschel",
+      "contributions": [
+        "code",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "skipCi": true
+  "linkToUsage": true,
+  "skipCi": true,
+  "commitConvention": "angular"
 }
